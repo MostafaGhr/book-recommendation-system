@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#=============
+#project specific files
+#=============
+**/BX-Book-Ratings.csv
+**/BX-Books.csv
+**/BX-Users.csv
